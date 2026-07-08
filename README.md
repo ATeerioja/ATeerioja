@@ -13,6 +13,7 @@ Master's student in Data Analytics at the University of Turku, focused on data a
 ## Projects
 
 __CareerHarvester__: A tool for generating targeted CVs and job applications
+
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
