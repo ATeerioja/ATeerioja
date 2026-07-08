@@ -1,12 +1,34 @@
-# Hello, my name is Anton
-## learning from machines or machine learning?
+# Hi, I'm Anton
 
-Studying for my masters in data-analytics at the university of Turku.
-Main interests are data-analytics and machine learning.
+Master's student in Data Analytics at the University of Turku, focused on data analysis and machine learning.
 
-# ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=css&logoColor=white) ![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black) ![Static Badge](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
+## Connect
+[LinkedIn](https://www.linkedin.com/in/anton-teerioja-485846229) – [Email](anton.teerioja@gmail.com) – [Portfolio](https://antonteerioja.com/)
+
+## Focus
+- Studying data analytics and machine learning at the University of Turku
+- Building CareerHarvester, a tool for applying to jobs with a personalized cv
+- Learning Docker, Ubuntu and Network Architecture
+
+## Projects
+
+__CareerHarvester__: A tool for generating targeted CVs and job applications
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
+__Portfolio-Website__: Personal website to showcase my projects
 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+__Portable-Arduino-Speaker__:Battery powered Arduino speaker
+
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
